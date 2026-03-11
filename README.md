@@ -157,7 +157,7 @@ Master's in Data Science / Cloud Computing
 ---
 
 **Academic Project**: COMP5721M - Programming for Data Science  
-**Institution**: University of Leeds
+**Institution**: [University of Leeds]  
 **Year**: 2024
 
 ## 🙏 Acknowledgments
